@@ -6,9 +6,7 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 
-/**
- * Created by Kirill Zhitelev on 17.07.2015.
- */
+
 public class CreateImage {
     private int width, height;
     private BufferedImage bi;

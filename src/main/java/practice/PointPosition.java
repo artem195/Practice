@@ -1,8 +1,6 @@
 package practice;
 
-/**
- * Created by Kirill Zhitelev on 16.07.2015.
- */
+
 public class PointPosition {
     private int x, y;
 

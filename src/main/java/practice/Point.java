@@ -6,9 +6,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
-/**
- * Created by Kirill Zhitelev on 16.07.2015.
- */
+
 public class Point {
     private ArrayList<PointPosition> positions = new ArrayList<>();
     private InputStream is = MainPoint.class.getResourceAsStream("/coordinates.txt");
